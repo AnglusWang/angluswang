@@ -83,16 +83,6 @@
 
 ---
 
-### 活跃状态
-
-![](https://ghchart.rshah.org/angluswang)
-
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angluswang&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/angluswang/github-readme-activity-graph)
-
----
-
 ## 🚀 代表项目
 ### 🔥 [项目 A: Vue3 + Node.js B 端管理系统](https://github.com/YourUsername/ProjectA)
 - **功能**: 动态权限管理、用户行为追踪、数据可视化  
@@ -107,6 +97,7 @@
 ---
 
 ## 📊 GitHub 统计
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=angluswang&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angluswang&layout=compact&theme=radical)
 
