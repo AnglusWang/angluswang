@@ -2,14 +2,14 @@
 
 # Hi there 👋 I'm **anglus wang**!
 
-🔭 **前端开发工程师**，擅长 Vue3、JavaScript 和 Node.js  
+🔭 **Web前端开发工程师**，擅长 Vue3、JavaScript 和 Node.js  
 🌱 目前在学习 Full-Stack 开发，使用 Koa2 构建后端  
 💬 欢迎交流技术、分享经验，共同成长！  
 
 📫 **联系我**:  
-[📧 Email](mailto:angluswang@gmail.com) | [📝 Blog](https://yourblog.com)
+[📧 Email](mailto:angluswang@gmail.com) | [📝 Blog](https://angluswang.com)
 
-![](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=angluswang&color=blue&style=flat-square)
 
 ---
 
@@ -31,6 +31,8 @@
   ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angluswang&hide_progress=true)
 
 ---
 
