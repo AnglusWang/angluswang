@@ -7,7 +7,7 @@
 💬 欢迎交流技术、分享经验，共同成长！  
 
 📫 **联系我**:  
-[📧 Email](mailto:angluswang@gmail.com) | [📝 Blog](https://angluswang.com)
+[📧 Email](mailto:angluswang@gmail.com) | [📊 个人网站](https://angluswang.com)
 
 ![](https://komarev.com/ghpvc/?username=angluswang&color=blue&style=flat-square\&layout=compact)
 
