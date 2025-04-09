@@ -9,6 +9,8 @@
 📫 **联系我**:  
 [📧 Email](mailto:angluswang@gmail.com) | [📊 个人网站](https://angluswang.com)
 
+![](https://raw.githubusercontent.com/AnglusWang/angluswang/output/github-contribution-grid-snake.svg)
+
 ![](https://komarev.com/ghpvc/?username=angluswang&color=blue&style=flat-square\&layout=compact)
 
 ---
@@ -97,8 +99,6 @@
 ---
 
 ## 📊 GitHub 统计
-![](https://raw.githubusercontent.com/AnglusWang/angluswang/output/github-contribution-grid-snake.svg
-)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=angluswang&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angluswang&layout=compact&theme=vue)
 
