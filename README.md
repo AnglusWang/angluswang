@@ -15,26 +15,26 @@
 
 ---
 
-## 🛠️ 技术栈
+v
 
-- **前端 Frontend**:  
-  ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vue.js)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=vite)
-  ![Webpack](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=webpack)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white)
+- **前端**:  
+  ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vue.js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![webpack](https://img.shields.io/badge/webpack-8dd6f9?style=flat&logo=webpack&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
 
-- **后端 Backend**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-  ![Koa2](https://img.shields.io/badge/Koa-333333?style=flat&logo=koa)
+- **后端**:  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Koa2](https://img.shields.io/badge/Koa-333333?style=flat&logo=koa&logoColor=white)
 
-- **工具与环境 DevOps**:  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-  ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+- **工具与环境**:  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 <table><tr><td valign="top" width="33%">
 
