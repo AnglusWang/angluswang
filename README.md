@@ -29,13 +29,16 @@
 - **后端**:  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Koa2](https://img.shields.io/badge/Koa-333333?style=flat&logo=koa&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 - **工具与环境**:  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat)
-  ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
   ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
 
 <table><tr><td valign="top" width="33%">
 
