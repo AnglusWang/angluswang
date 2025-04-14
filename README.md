@@ -28,7 +28,7 @@
   ![Koa](https://img.shields.io/badge/Koa-333333?style=flat&logo=koa&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-- **工具与环境**:
+- **工具与环境**:  
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -83,7 +83,7 @@
 
 </td></tr></table>  
 
----
+<!-- ---
 
 ## 🚀 代表项目
 ### 🔥 [项目 A: Vue3 + Node.js B 端管理系统](https://github.com/YourUsername/ProjectA)
@@ -94,7 +94,7 @@
 ### 💡 [项目 B: 数据可视化工具](https://github.com/YourUsername/ProjectB)
 - **功能**: 动态数据绑定，多种图表支持  
 - **亮点**: Vue3 + D3.js 组合，实现复杂交互和动画  
-- **项目地址**: [🔗 仓库链接](https://github.com/YourUsername/ProjectB)
+- **项目地址**: [🔗 仓库链接](https://github.com/YourUsername/ProjectB) -->
 
 ---
 
@@ -102,12 +102,12 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=angluswang&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angluswang&layout=compact&theme=vue)
 
----
+<!-- ---
 
 ## 🎯 未来计划
 - 学习 Serverless 和云开发，探索无服务器架构的应用场景  
 - 深入研究 TypeScript 类型系统，提升代码可靠性  
-- 持续参与开源项目，贡献社区力量 🚀  
+- 持续参与开源项目，贡献社区力量 🚀   -->
 
 ---
 
