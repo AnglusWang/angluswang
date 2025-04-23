@@ -3,7 +3,9 @@
 # Hi there 👋 I'm **anglus wang**!
 
 🔭 **Web 前端开发工程师**，擅长 Vue3、JavaScript 和 Node.js
+
 🌱 目前在学习 Full-Stack 开发，使用 Koa2 构建后端
+
 💬 欢迎交流技术、分享经验，共同成长！
 
 📫 **联系我**:  
