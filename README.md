@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-我是 **Anglus Wang**，一名专注于 **Vue3 / Node.js / 工程化** 的 Web 开发工程师。
+我是 **Anglus Wang**，一名专注于 **Vue3 / Node.js / 工程化** 的前端开发工程师。
 
 目前主要在做：
 
